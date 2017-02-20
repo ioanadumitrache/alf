@@ -14,8 +14,8 @@ Pour vous inscrire, vous avez besoin d'une invitation:
 * Suivez le lien dans l'e-mail pour vous inscrire
 
 ### Installer NodeJS
-* Allez sur [www.nodejs.org](http://www.nodejs.org)
-* Telechargez NodeJS version 6 TLS pour votre systeme d'exploiation (Windows/Linux/Mac)
+* Navigez vers [www.nodejs.org](http://www.nodejs.org)
+* Telechargez NodeJS version 6 TLS pour votre systeme d'exploitation (Windows/Linux/Mac)
 
 ## Tutoriel NodeJS
 
@@ -69,15 +69,15 @@ object.field1 = ...
 object.do_another();
 ````
 
-## Des Excercises
+## Des Excercices
 
-  1. Créer une variable de type: nombre, booléen et string:
-  2. Utilisation de la fonction [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof|typeof]], déterminer le type de variables définies dans l'excercise précédente.
-  3. Faites une liste avec tous les prenoms de votre groupe (doublons autorisés).
-    * Trier la liste
-    * Utilisation d'une autre liste, déterminer la fréquence de chaque nom
-    * Affichez le nom qui apparaît tirer le meilleue
-    * Determinați numele care apare de cele mai puține ori ȋn lista inițialӑ.
-    * Revenind la lista inițialӑ de nume, inversați ordinea elementelor.
-  4. Creați cu ajutorul unui object o bazӑ de date ȋn care sӑ rețineți numerele de telefon ale colegilor de grupӑ.
-  5. Scrieți o secvențӑ de cod care sӑ afișeze ȋn consolӑ toate numerele pare divizibile cu 7 din intervalul [0, 3463]. Ajustați codul astfel ȋncȃt la apariția primului multiplu al lui 833, algoritmul sӑ se opreascӑ.
+  1. Créez une variable de type: nombre, booléen et string:
+  2. En utilisant la fonction [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof|typeof]], déterminez le type de variables définies dans l'excercise précédente.
+  3. Créez une liste avec tous les prenoms de votre groupe (doublons autorisés).
+    * Triez la liste.
+    * En utilisant une autre liste, déterminez la fréquence de chaque nom.
+    * Affichez le nom le nom le plus fréquent.
+    * Affichez le nom le nom le moins fréquent.
+    * Dans la liste initiale, inversez l'ordre des éléments.
+  4. En utilisant un objet, créez une base de données dans laquelle vous stockez le numéros de téléphone de votre collègues du groupe.
+  5. Ecrivez une séquence de code qui affiche toutes les numbres paris, divisibles avec 7 dans l'interval [0,3463]. Modifiez la code de sorte que l'algortihme arrêts après l'apparition du premier multiple du 833.
