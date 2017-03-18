@@ -1,47 +1,16 @@
-# Exercise 2
+# Exercise 4
 
 This one needs to be run in the shell.
 
 ## Windows
 
-    npm install -g jshint
+    npm install -g jison
 
 ## Linux/Mac 
 
 ````bash
-sudo npm install -g jshint
+sudo npm install -g jison
 ````
 
 
-create a .jshintrc file that contains
 
-````json
-{
-    "node":true,
-    "esnext": true
-}
-````
-
-You can also add these to the *package.json* file
-
-````json
-{
-    ...
-    "jshintConfig":
-    {
-        "node":true,
-        "esnext":true
-    }
-    ...
-}
-````
-    
-   
-    
-After you write the *.jshintrc* file or add the *jshintConfig* in the *package.json* file run
-
-````bash
-jshint your_file_name.js
-````
-
-This will check your files for errors
